@@ -12,13 +12,3 @@ tasks:
 - id: 4
   title: ribs
   description: ribby rib ribs
-- id: 5
-  title: ugghhhh
-  description: asdflajslkdjf
-- id: 6
-  title: ''
-  description: ''
-- id: 7
-  title: new task
-  description: "some sort of description\r\n"
-total: 7
