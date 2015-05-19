@@ -1,18 +1,6 @@
 ---
 tasks:
-- id: 1
-  title: NewTask
-  description: "go grocery shopping\r\n"
-- id: 2
-  title: make cookies
-  description: bake some cookies for the kids
-- id: 3
-  title: eat
-  description: eat some good good
 - id: 4
-  title: ribs
-  description: ribby rib ribs
-- id: 1
-  title: hello
-  description: "there\r\n"
-total: 1
+  title: Bake Cookies
+  description: Bake some cookies for lev because you ate his. Rude.
+total: 4
